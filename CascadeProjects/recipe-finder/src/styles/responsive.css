@@ -1,0 +1,17 @@
+/* Responsive tweaks for Recipe Finder */
+@media (max-width: 600px) {
+  .search-bar {
+    flex-direction: column;
+    gap: 1rem;
+  }
+  .recipe-card {
+    margin-bottom: 1rem;
+  }
+}
+
+@media (min-width: 601px) {
+  .search-bar {
+    flex-direction: row;
+    gap: 2rem;
+  }
+} 
