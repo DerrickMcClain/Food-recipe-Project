@@ -142,7 +142,7 @@ src/
    ```bash
    firebase deploy
    ```
---## Credits
+  Credits
 
 - Powered by [Spoonacular API](https://spoonacular.com/food-api)
 - UI by [Material-UI](https://mui.com/) and [Bootstrap](https://getbootstrap.com/)
