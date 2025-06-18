@@ -142,17 +142,7 @@ src/
    ```bash
    firebase deploy
    ```
-
----
-
-## Portfolio Tips
-
-- Include screenshots of the search/filter UI, responsive layout, error messages, and the favorites feature.
-- Highlight API integration, error handling, and responsive design in your README and documentation.
-
----
-
-## Credits
+--## Credits
 
 - Powered by [Spoonacular API](https://spoonacular.com/food-api)
 - UI by [Material-UI](https://mui.com/) and [Bootstrap](https://getbootstrap.com/)
